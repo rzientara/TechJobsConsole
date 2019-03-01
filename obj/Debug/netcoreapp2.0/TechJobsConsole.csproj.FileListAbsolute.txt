@@ -1,0 +1,12 @@
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp2.0/TechJobsConsole.csprojAssemblyReference.cache
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp2.0/TechJobsConsole.csproj.CoreCompileInputs.cache
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp2.0/TechJobsConsole.AssemblyInfoInputs.cache
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp2.0/TechJobsConsole.AssemblyInfo.cs
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp2.0/job_data.csv
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp2.0/TechJobsConsole.deps.json
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp2.0/TechJobsConsole.runtimeconfig.json
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp2.0/TechJobsConsole.runtimeconfig.dev.json
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp2.0/TechJobsConsole.dll
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/bin/Debug/netcoreapp2.0/TechJobsConsole.pdb
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp2.0/TechJobsConsole.dll
+/home/rzientara96/web_scripting_III/TechJobsConsole/src/TechJobsConsole/obj/Debug/netcoreapp2.0/TechJobsConsole.pdb
